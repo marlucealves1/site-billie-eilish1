@@ -1,0 +1,61 @@
+body{ 
+    padding: 0;
+    margin-top: 0;
+    margin-left: 0; 
+    margin-right: 0;
+
+ } 
+ 
+ header{ 
+    background-color: #EB6440;
+    
+ } 
+ 
+ .logo{
+    color: black; 
+    width: 73px;
+    height: 80px; 
+    position:absolute;
+    left: 160px;
+
+ } li{ 
+    list-style-type: none;
+    font-size: 20px;
+} 
+   .login{ 
+    position: absolute; 
+    left: 1080px; top: 20px;
+    text-decoration: none; 
+    color:black; 
+    font-size: 17px; 
+    font-weight: bold; 
+    font-family: "Nunito",sans-serif;} 
+
+   .div1{ 
+    margin-top: 80px;
+ }
+   .registrar{ 
+    position: absolute;
+    left: 1186px; 
+    top: 20px; text-decoration: none;
+    color:black; 
+    font-size: 17px; 
+    font-weight: bold;
+    font-family: "Nunito", sans-serif;
+
+} 
+    .container-principal{ 
+     align-items:center;
+     margin-left: 119px; }
+
+    .rodape{
+     background-color: #EB6440;
+     color: black;
+     padding: 40px;
+     text-align: center;
+}
+
+     section{
+     justify-content:space-around;
+     display: flex;
+}
